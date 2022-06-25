@@ -19,7 +19,7 @@
 -->
 
 
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <h3 align="center">EU Mobile Developers</h3>
@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot](https://cdn-media-2.freecodecamp.org/w1280/60228d650a2838549dcc1f0b.jpg)
+[![Product Name Screen Shot][product-screenshot](https://cdn-media-2.freecodecamp.org/w1280/60228d650a2838549dcc1f0b.jpg)]
 
 There are many ways to gain insight into the developer lifestyle.And none of them is as efficient as being a developer.This organisation
 is geared to enhancing skills through peer collaboration and apprenticeship.

@@ -23,10 +23,6 @@ Here's why our members are zealous:
 Of course, there will be strugggles but ain't that just technology.
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Build Tools
 
 The relevant tools and frameworks used .
@@ -35,7 +31,6 @@ The relevant tools and frameworks used .
 * [Kotlin/Java](https://kotlinlang.org/)
 * [jetpack compose](https://developer.android.com/jetpack)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
